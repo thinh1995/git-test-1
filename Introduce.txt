@@ -2,3 +2,4 @@
 1. Các lệnh cơ bản
 2. Các lệnh nâng cao
 3. Ví dụ
+4. Lưu ý
